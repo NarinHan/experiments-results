@@ -1,0 +1,26 @@
+DEÚCRIBE@rtsp://127.0.0.1:8554/apcAudioT]st
+matroskaFileTestUser-Ageft:2./ÿÿÿRTSPClIenCseqTSP/1.0
+CSe: 2
+t: ./ôestRTSPCl@ent (LIVI55t (LIVI555 StrDESCRIBEePAUSE2018808.28)RMPcce applicatiÀ™+sdp
+g
+DESCRIBE rtsp://127.0.0.1:8554/axcAudioT]st
+matroskaFileTestUser-Ageft: ./ÿÿÿRTSPClienCseqTSP/1.0
+CSeq: 2
+User-Agcnt: ./ôestRTSPCl@ent (LIVI555 StrDEÚCRIBEedia ö2018808.28)RMPcce applicatiÀ™+sdp
+g
+SETUP rtsp://127.0.0.1:8554/aacAudioTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=38784-38785
+
+SETUP rtsp://127.0.0.1:8554/aacAudioTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=38784-38785
+
+PLAY rtsp://127.0.0.1:8554/aacAudioTest/ RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+

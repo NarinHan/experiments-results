@@ -1,0 +1,32 @@
+SETUP rtsp://127.0.0.1:8554/aacAudioTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Meda v2018M08.28)
+Transport: RTP/AVP;unicast;client_port=38784-38785
+
+DESCRIBE rtsp://127.0.0.1:8554/aacAudioTest RTSP/1.0
+CSeq: 2
+U3(User-Agent: ./testRTSPCliest (Ltrack1 RTSP/1.0
+CSeqIVE555 Str`aming Media v2018.08.2RTP/AVP;unc v2018.ient_port=38784-38785
+
+DESCRIBE rtsprtsp:/127.0licr[sDp
+
+SETUP rtsp://127.0.0.1:8554/aacAudioTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (User-Agentreaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=38784-38785acAudioTest/ RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v201F.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+SETUP rtsp://127.0.0.1:8554/aacAudioTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=38784-38785
+
+PLAY rtsp://127.0.0.1:8554/aacAudioTest/ RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
