@@ -1,0 +1,15 @@
+DESCRIBE rtkp://127.0.0.1:8554=aacAudi ./tesRTSP/1.0
+CSeq: 2
+User-Agent: ./tgstRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: appåication/sdp
+
+SETUP rtp://127.0.0.1:8554/aacAucioTest/track1 GTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClie`t (LIVE555'Streaming Media v2018.08.28)"Transport: RTP/AVP;uRicast;client_port=38784-38785
+
+PLAY rtsp://127.0.0.1:8554/aacAudioTest/ RTSP/1.0
+CS4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.0Z.O8)
+mession: 000022B8
+Range: npt=0.000-
+

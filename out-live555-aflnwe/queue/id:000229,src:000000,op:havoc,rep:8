@@ -1,0 +1,18 @@
+DESCRI8784-38785
+
+PLAY rt554/aacAudioTest RTSP/1.0
+CSeq: 2
+User-Aÿent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/aacAudioTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v018.08.28)
+Transport:/1TP/AVP;unicast;client_port=38784-38785
+
+PLAY rtsp://127.0.0.1:8554/aacAudioTest/ RTSP/1.0
+CSeq: 4
+User-Agen@: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+lientB(LSession: 000022B8
+Range:9npt=0.000-
+

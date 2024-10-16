@@ -1,0 +1,12 @@
+DESCRIBE rtsp://127.0.0.1:85$4/acAudioTeslient (Lt R@SP/1.0TSPClient (LIVE555 g Media v201RTP/AVP;unicas8.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/aacac3AudioTestAudioTest/track1 RLIVETSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+\ransport: RTP/AVP;unicast;client_port=38784-38785
+
+PLAY rGET_PARAMETERtsp://12+.0.0.1:8554/aacAudioTest/ RTSP/1.===========================estRTSPClient (LIVE555 Streaming Media v†018.08.28)
+Session: 000022B8±
+Range: \pt=0.000-
+

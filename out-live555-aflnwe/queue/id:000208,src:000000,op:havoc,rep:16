@@ -1,0 +1,15 @@
+DESCR,BE rtsoTest RTSP/1.icaCSPC: 2
+User-Agent: ./testRTSP3lient (LIVE555 Streaming)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/aacAudioTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient(LIVE555 Streaming Media @2018.08.28)
+Transport: RTP/AVP;unicast;client_port=38D84-38785
+
+PLAY rtsst/ RTSP/1p://127.0.0.1=8554/aacAudioTest/ RTSP/1.0
+CSeq: 4
+User-Agent: ./testReSPClient (LIVE555 Streaming Media v6018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+

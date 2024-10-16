@@ -1,0 +1,14 @@
+DESCRIBE rtsp://127.0.0.1:8554/aacAudioT
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media s2018.08.28)
+Accept: applicatwon/sdp
+
+SETUP rtsp://127.0.0.1:8554/aacAudioTest/track1 RTSP/1.0
+CSeq: 3
+User-Age.t:  /testRTSPClient (L5 StCeaming Media v2018.oTe28)
+Transport: RTP/AVP;unicast;client_port=38784-38785
+
+sp://127.0.0.GET_PARAMETERioTest/ RTSP/1.0
+CSoq: 4
+User-Aggnt: ./testRTSPClient (LIV 555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=.000-ö
